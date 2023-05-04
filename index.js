@@ -1,6 +1,8 @@
+
+
 // ??????????????? fibonacci millionth element ??????????????????
 //www.codewars.com/kata/53d40c1e2f13e331fc000c26/train/javascript
-// https: function fibonacci(n) {
+//  function fibonacci(n) {
 //   const arr = [0, 1];
 //   do {
 //     arr.push(arr[arr.length - 1] + arr[arr.length - 2]);
@@ -10,8 +12,6 @@
 //   return arr;
 // };
 // console.log(fibonacci(1000));
-
-
 
 // function perimeter(n) {
 //   const arr = [1, 1];
@@ -98,8 +98,6 @@
 // };
 
 // const nthFibo = (n) => Math.round(((1 + 5 ** 0.5) / 2) ** --n / 5 ** 0.5);
-
-
 
 // function topThreeWords(text) {
 //     const top3words = [];
